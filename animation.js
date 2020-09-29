@@ -1,0 +1,1 @@
+gsap.to(".sign",{duration: 5, stagger: 0.75, yoyo: true, scale: 1.2, transformOrigin: "bottom", repeat: -1, ease: Bounce.easeInOut})
